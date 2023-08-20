@@ -1,0 +1,41 @@
+body {
+    background-color: powderblue;
+    font-family: Arial;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+
+  div {
+    margin: 10px;
+    padding: 5%;
+    width: 50%;
+    height: auto;
+    background-color: #d9f0f8;
+    display: flex;
+    float:right;
+    opacity: 0.9;
+  }
+
+  a {
+    color: hotpink;
+    text-decoration:none;
+  }
+  
+  a:hover {
+    color: rgb(254, 60, 157);
+  }
+
+  img {
+    width:30px;
+    vertical-align: sub;
+  }
+
+  li {
+    color: black;
+    text-align: justify;
+    vertical-align: baseline;
+    padding: 5px;
+  }
